@@ -1,0 +1,39 @@
+body{
+  background-color: #1E222A;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+.gif{
+  width: 100px;
+  height: 100px;
+  margin: 0rem  4rem 0rem 4rem;
+}
+
+#tiny-text{
+  font-size: 8pt;
+}
+
+#image{
+  border-radius: 10px;
+}
+
+#list{
+  text-align: left;
+}
+
+/*Bootstrap*/
+.container-sm{
+  width: 60%;
+  background-color: #1B1F27;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+
+.d-flex{
+  justify-content: center;
+}
