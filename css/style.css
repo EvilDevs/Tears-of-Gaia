@@ -22,6 +22,10 @@ body{
   text-align: left;
 }
 
+#email{
+  text-align: right;
+}
+
 /*Bootstrap*/
 .container-sm{
   width: 60%;
@@ -31,8 +35,6 @@ body{
   text-align: center;
   margin-top: 10px;
 }
-
-
 
 .d-flex{
   justify-content: center;
